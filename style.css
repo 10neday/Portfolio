@@ -1180,6 +1180,7 @@ body.dark-mode .contact-availability {
     width: 100%;
     border-radius: 0;
     background: var(--color-sidebar);
+    overflow: visible;
   }
 
   .navbar {
