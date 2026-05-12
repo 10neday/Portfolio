@@ -720,6 +720,10 @@ body.dark-mode .hero h1 {
   padding: 32px;
 }
 
+.education-card + .education-card {
+  margin-top: 24px;
+}
+
 .education-main {
   display: flex;
   align-items: flex-start;
