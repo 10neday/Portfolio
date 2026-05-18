@@ -705,6 +705,10 @@ body.dark-mode .hero h1 {
   gap: 24px;
 }
 
+.projects-grid + .projects-grid {
+  margin-top: 24px;
+}
+
 .skills-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
