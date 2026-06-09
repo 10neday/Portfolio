@@ -1053,7 +1053,7 @@ body.dark-mode .contact-availability {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #22c55e;
+  background: #12c730;
   flex-shrink: 0;
   animation: pulse-dot 2.4s ease-in-out infinite;
 }
